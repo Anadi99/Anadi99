@@ -15,7 +15,7 @@
 - **Database**: MySQL, SQLite
 - **Tools**: Git, GitHub, VS Code, Postman
 
-🚀 Projects I’m proud of:
+🚀 Projects:
 - 🅿️ **[Automated Parking System](https://github.com/Anadi99/automated-parking-system)** – AI + ACO algorithm for smart real-time parking
 - 🏥 **[Hospital Registration System](https://github.com/Anadi99/hospital-registration-system)** – Java GUI CRUD app with MySQL backend
 
