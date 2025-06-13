@@ -20,8 +20,8 @@
 - 🏥 **[Hospital Registration System](https://github.com/Anadi99/hospital-registration-system)** – Java GUI CRUD app with MySQL backend
 
 📫 Reach me at:
-- 📧 anadi.mishra.dev@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/anadimishra)
+- 📧 anadimishra.work@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/anadi-mishra-168887271/)
 - 🌐 [Portfolio](https://anadi.  dev) (underconstruction)
 
 ---
@@ -29,7 +29,7 @@
 ⚡ Fun facts:
 - I love clean code and debugging more than I should.
 - I'm the person who reads documentation for fun.
-- WordPress + Backend + AI = my dream stack.
+- WordPress + Backend + AI.
 
 ---
 
