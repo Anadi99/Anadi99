@@ -33,8 +33,11 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anadi99&show_icons=true&theme=react&count_private=true" alt="Anadi's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anadi99&show_icons=true&theme=react&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anadi99&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anadi99&layout=compact&theme=react" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anadi99&theme=react&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anadi99&theme=onedark&margin-w=15&no-bg=true" />
 </p>
