@@ -16,7 +16,7 @@
 
 🚀 Featured Projects:
 - 🅿️ [Automated Parking System](https://github.com/Anadi99/automated-parking-system) – AI-powered parking allocation using Ant Colony Optimization  
-- 🏥 [Hospital Registration System](https://github.com/Anadi99/hospital-registration-system) – Java-based CRUD system with MySQL  
+- 🏥 [Hospital Registration System](https://github.com/Anadi99/hospital-management-system) – Java-based CRUD system with MySQL  
 - 🌐 [BrowserStack Assignment](https://github.com/Anadi99/browserstack-assignment) – Web scraper with automated cross-browser testing using Selenium & BrowserStack
 
 📫 Get in Touch:
