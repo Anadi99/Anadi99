@@ -7,9 +7,6 @@
 I’m a final-year **B.E. Computer Science** student focused on building **cloud-backed, automated, and efficient digital systems**.  
 I enjoy working on projects where **Cloud Computing, AI, Optimization, and Real-time Data** come together to solve real-world challenges.
 
-I’m open to **Internships, Full-time Roles, and Collaborative Projects** in:
-**Cloud Engineering • AI Engineering • Digitalization • Smart Mobility • Software Engineering**
-
 ---
 
 ### 🛠 Technical Skillset
