@@ -4,8 +4,11 @@
 ---
 
 ### 🌍 About Me
-I’m a final-year **B.E. Computer Science** student passionate about building **cloud-backed, data-driven, and automated systems** that improve efficiency and real-world workflows.  
-I enjoy working at the intersection of **Cloud, AI, Digital Twins, and Process Optimization** — especially in **automotive, mobility, and smart production environments**.
+I’m a final-year **B.E. Computer Science** student focused on building **cloud-backed, automated, and efficient digital systems**.  
+I enjoy working on projects where **Cloud Computing, AI, Optimization, and Real-time Data** come together to solve real-world challenges.
+
+I’m open to **Internships, Full-time Roles, and Collaborative Projects** in:
+**Cloud Engineering • AI Engineering • Digitalization • Smart Mobility • Software Engineering**
 
 ---
 
@@ -14,58 +17,57 @@ I enjoy working at the intersection of **Cloud, AI, Digital Twins, and Process O
 | Area | Skills & Tools |
 |------|---------------|
 | **Programming** | Python, Java, JavaScript, SQL |
-| **Cloud Platforms** | **AWS (IAM, EC2, S3)**, **Google Cloud Platform** |
-| **AI & Data** | Machine Learning Basics, Pandas, NumPy, Heuristic Optimization (ACO), Data Modeling |
-| **Systems & Core CS** | Cloud Computing, Computer Networks, OS, DBMS, Distributed System Concepts |
+| **Cloud** | **AWS (IAM, EC2, S3)**, **Google Cloud Platform** |
+| **AI & Data** | ML Basics, Pandas, NumPy, Optimization Algorithms (ACO), Data Modeling |
+| **Core CS** | Cloud Computing, DBMS, Computer Networks, OS, Data Structures |
 | **Automation & Testing** | Selenium, BrowserStack, Postman |
-| **Dev & Tools** | Linux, Git & GitHub, VS Code |
+| **Development Tools** | Linux, Git & GitHub, VS Code |
 | **Web Development** | React.js, HTML, CSS, Bootstrap |
 
-> Focus areas: **Cloud deployment | Efficiency in workflows | Digital automation | Real-time data systems**
+> Focus Areas: **Cloud Automation • Workflow Optimization • Real-Time Data Systems • AI-enhanced Solutions**
 
 ---
 
-### 🚀 Projects (Showcase Work That Solves Real Problems)
+### 🚀 Projects (Key Work)
 
 #### 🚗 Smart Vehicle Digital Twin
-Digital representation of a vehicle system for telemetry logging, state visualization, and behavior modeling.  
-**Contributions:** real-time simulation loop, modular state architecture, scalable integration design.  
-🔗 Repo: https://github.com/Anadi99/smart-vehicle-twin
+Simulates vehicle state and telemetry using modular system architecture.  
+Focus on **real-time data handling & scalable behavior modeling**.  
+🔗 https://github.com/Anadi99/smart-vehicle-twin
 
-#### 🇩🇪 DeutschPlay — Learn German Smarter
-An interactive vocabulary & practice companion designed to support **language adaptation for living and working in Germany**.  
-🔗 Repo: https://github.com/Anadi99/deutschplay
+#### 🇩🇪 DeutschPlay — Language Learning Companion
+Vocabulary practice platform designed to improve language retention through structured recall.  
+🔗 https://github.com/Anadi99/deutschplay
 
 #### ⚽ Live Football Widget
-Lightweight real-time match tracking widget using open APIs, efficient UI refresh loop & caching.  
-🔗 Repo: https://github.com/Anadi99/live-football-widget
+Real-time match tracking using open APIs and efficient UI update cycles.  
+🔗 https://github.com/Anadi99/live-football-widget
 
 #### 🅿️ Automated Parking System (AI + Optimization)
-AI slot allocation system using **Ant Colony Optimization** to minimize vehicle congestion.  
-🔗 Repo: https://github.com/Anadi99/automated-parking-system
+AI-powered slot allocation using **Ant Colony Optimization** to reduce congestion.  
+🔗 https://github.com/Anadi99/automated-parking-system
 
-#### 🏥 Hospital Registration System (Java + MySQL)
-Secure patient data entry, record retrieval & form-based GUI system.  
-🔗 Repo: https://github.com/Anadi99/hospital-management-system
+#### 🏥 Hospital Registration System
+Java + MySQL based patient record management system for streamlined data entry.  
+🔗 https://github.com/Anadi99/hospital-management-system
 
-#### 🔍 BrowserStack Cross-Browser Test Suite
-Automated UI test executions using Selenium and BrowserStack’s cloud testing environment.  
-🔗 Repo: https://github.com/Anadi99/browserstack-assignment
+#### 🔍 BrowserStack Cross-Browser Testing Suite
+Web automation and UI testing using **Selenium + BrowserStack Cloud Testing**.  
+🔗 https://github.com/Anadi99/browserstack-assignment
 
 ---
 
 ### 🌱 Currently Improving
-- Cloud Infrastructure Architectural Patterns  
-- Deployment workflows & observability in microservice environments  
-- AI use-cases in **logistics, digital twins, and manufacturing intelligence**
+- Cloud Deployment & Infrastructure Patterns  
+- Digital Twin Applications  
+- Observability, Monitoring & API-driven system design  
 
 ---
 
 ### 🤝 Open To
-- **Internships (on-site / hybrid / remote)**
-- **Working Student roles in Germany**
-- **Full-time Graduate Roles starting soon**
-- **Relocation & Multicultural Team Environments**
+- **Internships**
+- **Full-Time Software / Cloud / AI Roles**
+- **Collaborative Technical Projects**
 
 ---
 
