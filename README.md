@@ -17,7 +17,7 @@ I enjoy working on projects where **Cloud Computing, AI, Optimization, and Real-
 | **Cloud** | **AWS (IAM, EC2, S3)**, **Google Cloud Platform** |
 | **AI & Data** | ML Basics, Pandas, NumPy, Optimization Algorithms (ACO), Data Modeling |
 | **Core CS** | Cloud Computing, DBMS, Computer Networks, OS, Data Structures |
-| **Automation & Testing** | Selenium, BrowserStack, Postman |
+| **Automation & Testing** | Selenium, Postman |
 | **Development Tools** | Linux, Git & GitHub, VS Code |
 | **Web Development** | React.js, HTML, CSS, Bootstrap |
 
