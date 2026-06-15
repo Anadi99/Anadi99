@@ -72,6 +72,7 @@ Web automation and UI testing using **Selenium + BrowserStack Cloud Testing**.
 - Email: **anadimishra.work@gmail.com**
 - LinkedIn: https://www.linkedin.com/in/anadi-mishra-168887271/
 - GitHub: https://github.com/Anadi99
+- Portfolio : https://portfolio-six-azure-90.vercel.app/
 
 ---
 
