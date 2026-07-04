@@ -1,83 +1,153 @@
-<h1 align="center">Hi 👋, I'm Anadi Mishra</h1>
-<h3 align="center">Cloud & AI Engineer in Progress | Digitalization & Smart Systems | Computer Science Undergraduate</h3>
+<div align="center">
+<img src="./assets/hero-banner.jpg" width="100%" alt=""/>
+</div>
 
----
+<br/>
 
-### 🌍 About Me
-I’m a final-year **B.E. Computer Science** student focused on building **cloud-backed, automated, and efficient digital systems**.  
-I enjoy working on projects where **Cloud Computing, AI, Optimization, and Real-time Data** come together to solve real-world challenges.
-
----
-
-### 🛠 Technical Skillset
-
-| Area | Skills & Tools |
-|------|---------------|
-| **Programming** | Python, Java, JavaScript, SQL |
-| **Cloud** | **AWS (IAM, EC2, S3)**, **Google Cloud Platform** |
-| **AI & Data** | ML Basics, Pandas, NumPy, Optimization Algorithms (ACO), Data Modeling |
-| **Core CS** | Cloud Computing, DBMS, Computer Networks, OS, Data Structures |
-| **Automation & Testing** | Selenium, Postman |
-| **Development Tools** | Linux, Git & GitHub, VS Code |
-| **Web Development** | React.js, HTML, CSS, Bootstrap |
-
-> Focus Areas: **Cloud Automation • Workflow Optimization • Real-Time Data Systems • AI-enhanced Solutions**
-
----
-
-### 🚀 Projects (Key Work)
-
-#### 🚗 Smart Vehicle Digital Twin
-Simulates vehicle state and telemetry using modular system architecture.  
-Focus on **real-time data handling & scalable behavior modeling**.  
-🔗 https://github.com/Anadi99/smart-vehicle-twin
-
-#### 🇩🇪 DeutschPlay — Language Learning Companion
-Vocabulary practice platform designed to improve language retention through structured recall.  
-🔗 https://github.com/Anadi99/deutschplay
-
-#### ⚽ Live Football Widget
-Real-time match tracking using open APIs and efficient UI update cycles.  
-🔗 https://github.com/Anadi99/live-football-widget
-
-#### 🅿️ Automated Parking System (AI + Optimization)
-AI-powered slot allocation using **Ant Colony Optimization** to reduce congestion.  
-🔗 https://github.com/Anadi99/automated-parking-system
-
-#### 🏥 Hospital Registration System
-Java + MySQL based patient record management system for streamlined data entry.  
-🔗 https://github.com/Anadi99/hospital-management-system
-
-#### 🔍 BrowserStack Cross-Browser Testing Suite
-Web automation and UI testing using **Selenium + BrowserStack Cloud Testing**.  
-🔗 https://github.com/Anadi99/browserstack-assignment
-
----
-
-### 🌱 Currently Improving
-- Cloud Deployment & Infrastructure Patterns  
-- Digital Twin Applications  
-- Observability, Monitoring & API-driven system design  
-
----
-
-### 🤝 Open To
-- **Internships**
-- **Full-Time Software / Cloud / AI Roles**
-- **Collaborative Technical Projects**
-
----
-
-### 📫 Connect With Me
-- Email: **anadimishra.work@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/anadi-mishra-168887271/
-- GitHub: https://github.com/Anadi99
-- Portfolio : https://portfolio-six-azure-90.vercel.app/
-
----
+<h1 align="center">Anadi Mishra</h1>
+<p align="center"><sub>CLOUD &amp; AI SYSTEMS ENGINEER · DIGITALIZATION &amp; SMART SYSTEMS · CS GRADUATE</sub></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anadi99&layout=compact&theme=react" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Anadi99&theme=matrix&margin-w=10&no-bg=true&row=2&column=4" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1200&color=C9A227&center=true&vCenter=true&width=560&lines=Building+resilient%2C+cloud-native+systems;Working+at+the+intersection+of+AI+%2B+infrastructure;Currently+exploring+observability+%26+digital+twins" alt=""/>
 </p>
+
+<p align="center">
+<a href="mailto:anadimishra.work@gmail.com"><img src="https://img.shields.io/badge/-Email-0B0C10?style=flat-square&logo=gmail&logoColor=C9A227" alt=""/></a>
+<a href="https://www.linkedin.com/in/anadi-mishra-168887271/"><img src="https://img.shields.io/badge/-LinkedIn-0B0C10?style=flat-square&logo=linkedin&logoColor=C9A227" alt=""/></a>
+<a href="https://github.com/Anadi99"><img src="https://img.shields.io/badge/-GitHub-0B0C10?style=flat-square&logo=github&logoColor=C9A227" alt=""/></a>
+<a href="https://portfolio-six-azure-90.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0B0C10?style=flat-square&logo=vercel&logoColor=C9A227" alt=""/></a>
+</p>
+
+<p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
+
+### 01 — Overview
+
+I build cloud-backed, automated, and efficient digital systems — with a particular interest in where **cloud computing, AI, optimization, and real-time data** meet. My work generally falls into one of three buckets: cloud infrastructure, intelligent automation, or real-time/telemetry-driven applications.
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+**Currently focused on:**
+- Cloud deployment and infrastructure patterns
+- Digital twin applications
+- Observability, monitoring, and API-driven system design
+
+</td>
+<td width="38%" valign="top">
+<img src="./assets/earth-moon.jpg" width="100%" alt=""/>
+</td>
+</tr>
+</table>
+
+<p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
+
+### 02 — Technical Stack
+
+<div align="center">
+
+| | |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-0B0C10?style=flat-square&logo=python&logoColor=C9A227) ![Java](https://img.shields.io/badge/-Java-0B0C10?style=flat-square&logo=openjdk&logoColor=C9A227) ![JavaScript](https://img.shields.io/badge/-JavaScript-0B0C10?style=flat-square&logo=javascript&logoColor=C9A227) ![SQL](https://img.shields.io/badge/-SQL-0B0C10?style=flat-square&logo=postgresql&logoColor=C9A227) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/-AWS-0B0C10?style=flat-square&logo=amazonaws&logoColor=C9A227) ![GCP](https://img.shields.io/badge/-GCP-0B0C10?style=flat-square&logo=googlecloud&logoColor=C9A227) |
+| **AI &amp; Data** | ![Pandas](https://img.shields.io/badge/-Pandas-0B0C10?style=flat-square&logo=pandas&logoColor=C9A227) ![NumPy](https://img.shields.io/badge/-NumPy-0B0C10?style=flat-square&logo=numpy&logoColor=C9A227) ![Badge](https://img.shields.io/badge/-ML%20Basics-0B0C10?style=flat-square&logoColor=C9A227) ![Badge](https://img.shields.io/badge/-Ant%20Colony%20Optimization-0B0C10?style=flat-square&logoColor=C9A227) |
+| **Core CS** | ![Badge](https://img.shields.io/badge/-Cloud%20Computing-0B0C10?style=flat-square&logoColor=C9A227) ![Badge](https://img.shields.io/badge/-DBMS-0B0C10?style=flat-square&logoColor=C9A227) ![Badge](https://img.shields.io/badge/-Networks-0B0C10?style=flat-square&logoColor=C9A227) ![Badge](https://img.shields.io/badge/-OS-0B0C10?style=flat-square&logoColor=C9A227) ![Badge](https://img.shields.io/badge/-Data%20Structures-0B0C10?style=flat-square&logoColor=C9A227) |
+| **Automation &amp; Testing** | ![Selenium](https://img.shields.io/badge/-Selenium-0B0C10?style=flat-square&logo=selenium&logoColor=C9A227) ![Postman](https://img.shields.io/badge/-Postman-0B0C10?style=flat-square&logo=postman&logoColor=C9A227) |
+| **Tooling** | ![Linux](https://img.shields.io/badge/-Linux-0B0C10?style=flat-square&logo=linux&logoColor=C9A227) ![Git](https://img.shields.io/badge/-Git-0B0C10?style=flat-square&logo=git&logoColor=C9A227) ![VS Code](https://img.shields.io/badge/-VS%20Code-0B0C10?style=flat-square&logo=visualstudiocode&logoColor=C9A227) |
+| **Web** | ![React](https://img.shields.io/badge/-React-0B0C10?style=flat-square&logo=react&logoColor=C9A227) ![HTML5](https://img.shields.io/badge/-HTML5-0B0C10?style=flat-square&logo=html5&logoColor=C9A227) ![CSS3](https://img.shields.io/badge/-CSS3-0B0C10?style=flat-square&logo=css3&logoColor=C9A227) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0B0C10?style=flat-square&logo=bootstrap&logoColor=C9A227) |
+
+</div>
+
+<p align="center"><sub>Focus areas: cloud automation · workflow optimization · real-time data systems · AI-enhanced solutions</sub></p>
+
+<p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
+
+### 03 — Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Smart Vehicle Digital Twin**
+Simulates vehicle state and telemetry through a modular system architecture, focused on real-time data handling and scalable behavior modeling.
+[→ smart-vehicle-twin](https://github.com/Anadi99/smart-vehicle-twin)
+
+</td>
+<td width="50%" valign="top">
+
+**DeutschPlay**
+A vocabulary practice platform designed to improve language retention through structured recall.
+[→ deutschplay](https://github.com/Anadi99/deutschplay)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Live Football Widget**
+Real-time match tracking built on open APIs, with an emphasis on efficient UI update cycles.
+[→ live-football-widget](https://github.com/Anadi99/live-football-widget)
+
+</td>
+<td width="50%" valign="top">
+
+**Automated Parking System**
+AI-powered slot allocation using Ant Colony Optimization to reduce congestion.
+[→ automated-parking-system](https://github.com/Anadi99/automated-parking-system)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Hospital Registration System**
+A Java + MySQL patient record management system built for streamlined data entry.
+[→ hospital-management-system](https://github.com/Anadi99/hospital-management-system)
+
+</td>
+<td width="50%" valign="top">
+
+**BrowserStack Testing Suite**
+Cross-browser web automation and UI testing using Selenium with BrowserStack Cloud.
+[→ browserstack-assignment](https://github.com/Anadi99/browserstack-assignment)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Additional projects</b> (descriptions pending)</summary>
+<br/>
+
+| Project | Description | Repository |
+|---|---|---|
+| Founder OS | _add one-line description_ | _add link_ |
+| Griha | _add one-line description_ | _add link_ |
+| KeGo | _add one-line description_ | _add link_ |
+| AI Pulse | _add one-line description_ | _add link_ |
+| Safmeh | _add one-line description_ | _add link_ |
+| MCP Server | _add one-line description_ | _add link_ |
+| Match Cast AI | _add one-line description_ | _add link_ |
+| HumanizeAI | _add one-line description_ | _add link_ |
+
+</details>
+
+<p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
+
+### 04 — Open To
+
+Internships · Full-time Software / Cloud / AI roles · Collaborative technical projects
+
+<p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
+
+### 05 — Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anadi99&layout=compact&hide_border=true&bg_color=0B0C10&title_color=C9A227&text_color=E5E5E5" alt=""/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="./assets/helix-nebula-footer.jpg" width="100%" alt=""/>
+</div>
