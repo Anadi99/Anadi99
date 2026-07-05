@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/hero-banner.png" width="100%" alt=""/>
+<img src="https://i.postimg.cc/N0pLLkpF/hero-banner.png" width="100%" alt="hero-banner"/>
 </div>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 </td>
 <td width="30%" align="center">
-<img src="./assets/astro-shuttle-final.png" width="150" alt=""/>
+<img src="https://i.postimg.cc/hj4JD5B6/PIA09178-orig.jpg" width="170" style="border-radius:12px" alt="PIA09178-orig"/>
 </td>
 </tr>
 </table>
@@ -139,6 +139,12 @@ Internships · Full-time Software / Cloud / AI roles · Collaborative technical 
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anadi99&layout=compact&hide_border=true&bg_color=0B0C10&title_color=C9A227&text_color=E5E5E5" alt=""/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://i.postimg.cc/Sxbwz0vY/adjnadwjcfhe.jpg" width="100%" alt="footer"/>
 </div>
 
 <br/>
