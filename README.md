@@ -28,7 +28,6 @@
 </tr>
 </table>
 
-<p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
 
 ### Overview
 
@@ -36,7 +35,6 @@ I build cloud-backed, automated, and efficient digital systems — with a partic
 
 **Currently focused on:** cloud deployment &amp; infrastructure patterns · digital twin applications · observability, monitoring &amp; API-driven system design
 
-<p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
 
 ### Technical Stack
 
@@ -54,7 +52,6 @@ I build cloud-backed, automated, and efficient digital systems — with a partic
 
 </div>
 
-<p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
 
 ### Selected Work
 
@@ -126,13 +123,11 @@ Cross-browser web automation and UI testing using Selenium with BrowserStack Clo
 
 </details>
 
-<p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
 
 ### Open To
 
 Internships · Full-time Software / Cloud / AI roles · Collaborative technical projects
 
-<p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
 
 ### Stats
 
