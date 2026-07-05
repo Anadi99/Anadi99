@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.postimg.cc/N0pLLkpF/hero-banner.png" width="94%" alt="hero-banner"/>
+<img src="https://i.postimg.cc/N0pLLkpF/hero-banner.png" width="100%" alt="hero-banner"/>
 </div>
 
 <p align="center">
@@ -9,18 +9,22 @@
 <a href="https://github.com/Anadi99"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
 </p>
 
+<br/>
+
 <table>
 <tr>
 <td width="70%" valign="middle">
 
 <h1>Anadi Mishra</h1>
 <sub>CLOUD &amp; AI SYSTEMS ENGINEER · DIGITALIZATION &amp; SMART SYSTEMS · CS GRADUATE</sub>
-<br/>
+
+<br/><br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1200&color=C9A227&vCenter=true&width=560&lines=Building+resilient%2C+cloud-native+systems;Working+at+the+intersection+of+AI+%2B+infrastructure;Currently+exploring+observability+%26+digital+twins" alt=""/>
 
 </td>
 <td width="30%" align="center">
-<img src="https://i.postimg.cc/hj4JD5B6/PIA09178-orig.jpg" width="160" style="border-radius:12px" alt="PIA09178-orig"/>
+<img src="https://i.postimg.cc/hj4JD5B6/PIA09178-orig.jpg" width="170" style="border-radius:12px" alt="PIA09178-orig"/>
 </td>
 </tr>
 </table>
@@ -125,27 +129,6 @@ Cross-browser web automation and UI testing using Selenium with BrowserStack Clo
 
 <p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
 
-### 🌌 Project Universe
-
-<sub>Every planet in orbit represents one of my projects — size and orbit distance loosely track scope and how central it is to what I'm building right now.</sub>
-
-<div align="center">
-<img src="./assets/project-universe.svg" width="94%" alt="Project Universe — orbital map of projects"/>
-</div>
-
-<div align="center">
-
-[![MorphOS](https://img.shields.io/badge/MorphOS-0B1220?style=flat-square&labelColor=0B1220&color=2C5FA8)](https://github.com/Anadi99)
-[![FounderOS](https://img.shields.io/badge/FounderOS-0B1220?style=flat-square&labelColor=0B1220&color=7B4FB0)](https://github.com/Anadi99)
-[![KeGo](https://img.shields.io/badge/KeGo-0B1220?style=flat-square&labelColor=0B1220&color=E08A3C)](https://github.com/Anadi99)
-[![Griha](https://img.shields.io/badge/Griha-0B1220?style=flat-square&labelColor=0B1220&color=3E9A63)](https://github.com/Anadi99)
-[![DeutschPlay](https://img.shields.io/badge/DeutschPlay-0B1220?style=flat-square&labelColor=0B1220&color=B8C2CE)](https://github.com/Anadi99/deutschplay)
-[![AI Pulse](https://img.shields.io/badge/AI%20Pulse-0B1220?style=flat-square&labelColor=0B1220&color=C9A227)](https://github.com/Anadi99)
-
-</div>
-
-<p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
-
 ### Open To
 
 Internships · Full-time Software / Cloud / AI roles · Collaborative technical projects
@@ -158,8 +141,12 @@ Internships · Full-time Software / Cloud / AI roles · Collaborative technical 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anadi99&layout=compact&hide_border=true&bg_color=0B0C10&title_color=C9A227&text_color=E5E5E5" alt=""/>
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://i.postimg.cc/Sxbwz0vY/adjnadwjcfhe.jpg" width="94%" alt="footer"/>
+<img src="https://i.postimg.cc/Sxbwz0vY/adjnadwjcfhe.jpg" width="100%" alt="footer"/>
 </div>
+
+<br/>
 
 <p align="center"><sub>Last synced: <!--LAST-SYNCED-->pending<!--END-LAST-SYNCED--> · if this README was useful as a reference, a star is always appreciated ⭐</sub></p>
