@@ -6,7 +6,6 @@
 <a href="https://portfolio-six-azure-90.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt=""/></a>
 <a href="https://www.linkedin.com/in/anadi-mishra-168887271/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
 <a href="mailto:anadimishra.work@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt=""/></a>
-<a href="https://github.com/Anadi99"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
 </p>
 
 <br/>
