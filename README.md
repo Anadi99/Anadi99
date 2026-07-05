@@ -4,45 +4,42 @@
 
 <br/>
 
-<h1 align="center">Anadi Mishra</h1>
-<p align="center"><sub>CLOUD &amp; AI SYSTEMS ENGINEER · DIGITALIZATION &amp; SMART SYSTEMS · CS GRADUATE</sub></p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1200&color=C9A227&center=true&vCenter=true&width=560&lines=Building+resilient%2C+cloud-native+systems;Working+at+the+intersection+of+AI+%2B+infrastructure;Currently+exploring+observability+%26+digital+twins" alt=""/>
-</p>
-
-<p align="center">
-<a href="mailto:anadimishra.work@gmail.com"><img src="https://img.shields.io/badge/-Email-0B0C10?style=flat-square&logo=gmail&logoColor=C9A227" alt=""/></a>
-<a href="https://www.linkedin.com/in/anadi-mishra-168887271/"><img src="https://img.shields.io/badge/-LinkedIn-0B0C10?style=flat-square&logo=linkedin&logoColor=C9A227" alt=""/></a>
-<a href="https://github.com/Anadi99"><img src="https://img.shields.io/badge/-GitHub-0B0C10?style=flat-square&logo=github&logoColor=C9A227" alt=""/></a>
-<a href="https://portfolio-six-azure-90.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0B0C10?style=flat-square&logo=vercel&logoColor=C9A227" alt=""/></a>
-</p>
-
-<p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
-
-### 01 — Overview
-
-I build cloud-backed, automated, and efficient digital systems — with a particular interest in where **cloud computing, AI, optimization, and real-time data** meet. My work generally falls into one of three buckets: cloud infrastructure, intelligent automation, or real-time/telemetry-driven applications.
-
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="70%" valign="middle">
 
-**Currently focused on:**
-- Cloud deployment and infrastructure patterns
-- Digital twin applications
-- Observability, monitoring, and API-driven system design
+<h1>Anadi Mishra</h1>
+<sub>CLOUD &amp; AI SYSTEMS ENGINEER · DIGITALIZATION &amp; SMART SYSTEMS · CS GRADUATE</sub>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1200&color=C9A227&vCenter=true&width=560&lines=Building+resilient%2C+cloud-native+systems;Working+at+the+intersection+of+AI+%2B+infrastructure;Currently+exploring+observability+%26+digital+twins" alt=""/>
+
+<br/><br/>
+
+<a href="https://portfolio-six-azure-90.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B0C10?style=flat-square&logo=vercel&logoColor=C9A227" alt=""/></a>
+<a href="https://www.linkedin.com/in/anadi-mishra-168887271/"><img src="https://img.shields.io/badge/LinkedIn-0B0C10?style=flat-square&logo=linkedin&logoColor=C9A227" alt=""/></a>
+<a href="mailto:anadimishra.work@gmail.com"><img src="https://img.shields.io/badge/Email-0B0C10?style=flat-square&logo=gmail&logoColor=C9A227" alt=""/></a>
+<a href="https://github.com/Anadi99"><img src="https://img.shields.io/badge/GitHub-0B0C10?style=flat-square&logo=github&logoColor=C9A227" alt=""/></a>
 
 </td>
-<td width="38%" valign="top">
-<img src="./assets/earth-moon.jpg" width="100%" alt=""/>
+<td width="30%" align="center">
+<img src="./assets/astro-shuttle-final.png" width="150" alt=""/>
 </td>
 </tr>
 </table>
 
 <p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
 
-### 02 — Technical Stack
+### Overview
+
+I build cloud-backed, automated, and efficient digital systems — with a particular interest in where **cloud computing, AI, optimization, and real-time data** meet. My work generally falls into one of three buckets: cloud infrastructure, intelligent automation, or real-time/telemetry-driven applications.
+
+**Currently focused on:** cloud deployment &amp; infrastructure patterns · digital twin applications · observability, monitoring &amp; API-driven system design
+
+<p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
+
+### Technical Stack
 
 <div align="center">
 
@@ -58,11 +55,9 @@ I build cloud-backed, automated, and efficient digital systems — with a partic
 
 </div>
 
-<p align="center"><sub>Focus areas: cloud automation · workflow optimization · real-time data systems · AI-enhanced solutions</sub></p>
-
 <p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
 
-### 03 — Selected Work
+### Selected Work
 
 <table>
 <tr>
@@ -116,7 +111,7 @@ Cross-browser web automation and UI testing using Selenium with BrowserStack Clo
 </table>
 
 <details>
-<summary><b>Additional projects</b> (descriptions pending)</summary>
+<summary><b>Additional projects</b></summary>
 <br/>
 
 | Project | Description | Repository |
@@ -134,13 +129,13 @@ Cross-browser web automation and UI testing using Selenium with BrowserStack Clo
 
 <p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
 
-### 04 — Open To
+### Open To
 
 Internships · Full-time Software / Cloud / AI roles · Collaborative technical projects
 
 <p align="center">· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·</p>
 
-### 05 — Stats
+### Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anadi99&layout=compact&hide_border=true&bg_color=0B0C10&title_color=C9A227&text_color=E5E5E5" alt=""/>
@@ -148,6 +143,4 @@ Internships · Full-time Software / Cloud / AI roles · Collaborative technical 
 
 <br/>
 
-<div align="center">
-<img src="./assets/helix-nebula-footer.jpg" width="100%" alt=""/>
-</div>
+<p align="center"><sub>Last synced: <!--LAST-SYNCED-->pending<!--END-LAST-SYNCED--> · if this README was useful as a reference, a star is always appreciated ⭐</sub></p>
