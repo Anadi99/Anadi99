@@ -1,6 +1,13 @@
 <div align="center">
-<img src="./assets/hero-banner.jpg" width="100%" alt=""/>
+<img src="./assets/hero-banner.png" width="100%" alt=""/>
 </div>
+
+<p align="center">
+<a href="https://portfolio-six-azure-90.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt=""/></a>
+<a href="https://www.linkedin.com/in/anadi-mishra-168887271/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
+<a href="mailto:anadimishra.work@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt=""/></a>
+<a href="https://github.com/Anadi99"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
+</p>
 
 <br/>
 
@@ -14,13 +21,6 @@
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1200&color=C9A227&vCenter=true&width=560&lines=Building+resilient%2C+cloud-native+systems;Working+at+the+intersection+of+AI+%2B+infrastructure;Currently+exploring+observability+%26+digital+twins" alt=""/>
-
-<br/><br/>
-
-<a href="https://portfolio-six-azure-90.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B0C10?style=flat-square&logo=vercel&logoColor=C9A227" alt=""/></a>
-<a href="https://www.linkedin.com/in/anadi-mishra-168887271/"><img src="https://img.shields.io/badge/LinkedIn-0B0C10?style=flat-square&logo=linkedin&logoColor=C9A227" alt=""/></a>
-<a href="mailto:anadimishra.work@gmail.com"><img src="https://img.shields.io/badge/Email-0B0C10?style=flat-square&logo=gmail&logoColor=C9A227" alt=""/></a>
-<a href="https://github.com/Anadi99"><img src="https://img.shields.io/badge/GitHub-0B0C10?style=flat-square&logo=github&logoColor=C9A227" alt=""/></a>
 
 </td>
 <td width="30%" align="center">
