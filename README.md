@@ -31,7 +31,7 @@
 
 ### Overview
 
-I build cloud-backed, automated, and efficient digital systems — with a particular interest in where **cloud computing, AI, optimization, and real-time data** meet. My work generally falls into one of three buckets: cloud infrastructure, intelligent automation, or real-time/telemetry-driven applications.
+I build cloud-backed, automated, and efficient digital systems with a particular interest in where **cloud computing, AI, optimization, and real-time data** meet. My work generally falls into one of three buckets: cloud infrastructure, intelligent automation, or real-time/telemetry-driven applications.
 
 **Currently focused on:** cloud deployment &amp; infrastructure patterns · digital twin applications · observability, monitoring &amp; API-driven system design
 
