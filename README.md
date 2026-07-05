@@ -129,12 +129,6 @@ Cross-browser web automation and UI testing using Selenium with BrowserStack Clo
 Internships · Full-time Software / Cloud / AI roles · Collaborative technical projects
 
 
-### Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anadi99&layout=compact&hide_border=true&bg_color=0B0C10&title_color=C9A227&text_color=E5E5E5" alt=""/>
-</div>
-
 <br/>
 
 <div align="center">
